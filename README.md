@@ -130,13 +130,54 @@ http://localhost:5173
 
 ## Screenshots
 
-Add screenshots of:
+## 📸 Application Screenshots
 
-- Login Page
-- Dashboard
-- Live Monitoring
-- Alerts Page
-- Detection History
+### 🔐 Login Page
+Secure authentication for users to access the surveillance dashboard.
+
+![Login](screenshots/login.png)
+
+---
+
+### 📝 Registration Page
+Create a new account with role-based user registration.
+
+![Register](screenshots/register.png)
+
+---
+
+### 📊 Dashboard
+Displays real-time surveillance statistics, camera status, AI model information, and detection analytics.
+
+![Dashboard](screenshots/dashboard.png)
+
+---
+
+### 🎥 Live Monitoring
+Monitor the live camera feed with real-time YOLOv8 object detection and automatic alert generation.
+
+![Monitoring](screenshots/monitoring.png)
+
+---
+
+### 📜 Detection History
+View previously detected objects along with confidence scores, timestamps, and captured images.
+
+![History](screenshots/history.png)
+
+---
+
+### 🚨 Live Alerts
+Instant notifications whenever a person or configured object is detected by the surveillance system.
+
+![Alerts](screenshots/alerts.png)
+
+---
+
+### ⚙️ System Settings
+Displays the current system status, AI model, camera status, and detection service information.
+
+![Settings](screenshots/settings.png)
 
 ---
 
