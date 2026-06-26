@@ -161,7 +161,7 @@ B.Tech Computer Engineering
 
 MIT Academy of Engineering, Pune
 
-LinkedIn: https://www.linkedin.com/in/komal-kolhe-7758b8286
+LinkedIn:  https://www.linkedin.com/in/sanket-kolhe-b2683525b
 
 GitHub: https://github.com/SanketKolhe2005
 
